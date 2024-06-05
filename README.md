@@ -1,4 +1,4 @@
- This project is laravel coding test project using folowing these functions.
+ This project is laravel coding test project using following these functions.
 
  1. Please create admin user login
  2. Please create, edit, delete for member list
